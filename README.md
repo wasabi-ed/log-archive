@@ -24,7 +24,9 @@ Features
    ```bash
    ./archive-logs.sh /path/to/log/directory
    
-Replace /path/to/log/directory with the directory containing the .log files you want to compress. For example:
+4. Replace /path/to/log/directory with the directory containing the .log files you want to compress. For example:
    ```bash
    ./archive-logs.sh /var/log
    # This will create an archive in the archived_logs/ folder inside /var/log.
+
+https://roadmap.sh/projects/log-archive-tool
